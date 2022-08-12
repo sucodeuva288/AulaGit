@@ -1,3 +1,2 @@
 Exemplo de criaçao de arquivo texto
 windows
-Olá mundo!
